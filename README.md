@@ -249,9 +249,10 @@ OneTap-Bus/
 
 | Member | Role |
 |--------|------|
+| **Yeanul Haque Khan Akib** | Developer |
 | **Sumaiya Islam Aritra** | Developer |
 | **Tahmid Islam** | Developer |
-| **Yeanul Haque Khan Akib** | Developer |
+
 
 ---
 
